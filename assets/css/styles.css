@@ -5,9 +5,13 @@
     color: #FFFFFF;
 }
 
-.navbar .navbar-brand,
+.navbar,
 .navbar .nav-link {
     color: #023047 !important;
+}
+
+.navbar-brand{
+    color: #FFFFFF !important;
 }
 
 /* Title Section */
